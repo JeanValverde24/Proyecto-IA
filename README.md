@@ -1,11 +1,6 @@
 # Proyecto-IA
 
-##Integrantes : 
- -Jose Luis Jarro Cachi
- -Anthony Cano Sucso  
- -Jean Valverde Zamora
-
-##Desarrrollo 
-
-
-##
+## Integrantes:
+- Jose Luis Jarro Cachi
+- Anthony Cano Sucso
+- Jean Valverde Zamora
