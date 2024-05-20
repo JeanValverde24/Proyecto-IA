@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44103145902",
+    "project_id": "proyecto-unidad2",
+    "storage_bucket": "proyecto-unidad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44103145902:android:f75254f0a586b52f3c103f",
+        "android_client_info": {
+          "package_name": "com.proyect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhq9ONui4sfAa03O17tXF4qr512p3mg7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
